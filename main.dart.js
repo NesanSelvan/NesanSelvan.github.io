@@ -64973,7 +64973,7 @@ $S:0}
 A.a7A.prototype={
 $0(){var s,r=this,q=r.b.a
 if(J.e(q[13],"machine")){q=r.c
-s=r.a.x
+s=r.a.w
 if(A.an(q).e)A.af5(q,s)
 else A.af4(q,s)}else if(J.e(q[13],"motor")){q=r.c
 s=r.a.x
